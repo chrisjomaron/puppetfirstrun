@@ -1,4 +1,5 @@
-Initial commit
-==============
+Puppet Test Module
+==================
 
-I was changed under Git tag 0.0.2
+An ultra-simple parameterised class for testing provisioning/deployment scripts
+and configuration data passing.
