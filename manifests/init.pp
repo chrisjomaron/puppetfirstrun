@@ -11,7 +11,7 @@
 # Sample Usage:
 #
 # [Remember: No empty lines between comments and class definition]
-class puppetfirstrun ($output_text = "I am the default text.") {
+class puppetfirstrun ($output_text = "I am the default text in branch.") {
 
   include puppetfirstrun::config
 
