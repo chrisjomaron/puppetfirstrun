@@ -26,3 +26,4 @@ begin
   end
 rescue Gem::LoadError
 end
+
