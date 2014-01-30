@@ -12,6 +12,7 @@
 #
 # [Remember: No empty lines between comments and class definition]
 class puppetfirstrun ($output_text = "I am the default text.") {
+
   include puppetfirstrun::config
 
   notify {$output_text :}
